@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1317210277"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gl -WG -vewnhi -l &quot;-Fi/mnt/sda3/pemrograman dasar/tugas pd/lib/i386-linux&quot; -Fu/usr/lib/lazarus/lcl/units/i386-linux -Fu/usr/lib/lazarus/lcl/units/i386-linux/gtk2 -Fu/usr/lib/lazarus/packager/units/i386-linux &quot;-Fu/mnt/sda3/pemrograman dasar/tugas pd/&quot; -Fu. &quot;-FU/mnt/sda3/pemrograman dasar/tugas pd/lib/i386-linux/&quot; -oproject1 -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>
